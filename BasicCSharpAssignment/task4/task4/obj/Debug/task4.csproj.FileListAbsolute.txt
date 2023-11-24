@@ -1,0 +1,7 @@
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\bin\Debug\task4.exe.config
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\bin\Debug\task4.exe
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\bin\Debug\task4.pdb
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\obj\Debug\task4.exe
+D:\practic exercise\assignment20\BasicCSharpAssignment\task4\task4\obj\Debug\task4.pdb
